@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hi, I'm Hitesh Punati<br><br>🎓 Computer Science and Business Systems undergraduate passionate about building practical software and continuously learning new technologies.<br><br>💻 Interested in Full Stack Development, AI-powered applications, and Cloud Computing.<br><br>🚀 Currently working on personal projects to strengthen my development skills and exploring opportunities to contribute to open source.<br><br>📚 Always learning, always building.
 
 
